@@ -1,3 +1,3 @@
 print("Automatisierung gestartet")
 print("optimierungssever erstellt")
-print("optimierungsserver upgedatet")
+print("optimierungsserver upgedatet2")
